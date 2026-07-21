@@ -1,0 +1,6 @@
+Bug found:
+
+main.py originally did not call the calculate_total() function correctly.
+The bug was fixed by importing calculate_total from food_order.py and using it to calculate the total payment.
+
+Input validation was also added for invalid price and quantity.
