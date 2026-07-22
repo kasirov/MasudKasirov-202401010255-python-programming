@@ -20,4 +20,4 @@ The IT Helpdesk Ticket Registration System is a modular Python program designed 
 4. Enter the required details when prompted (Student Name, Student ID, Issue, Location, Priority).
 
 ## 4. Application Demonstration
-<video controls src="Recording 2026-07-22 132441.mp4" title="Title"></video>
+![alt text](Demo.gif)
